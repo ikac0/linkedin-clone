@@ -36,7 +36,6 @@ function Sidebar() {
                 {recentItem('development')}
                 {recentItem('front-end')}
                 {recentItem('IT')}
-
             </div>
         </div>
     );
